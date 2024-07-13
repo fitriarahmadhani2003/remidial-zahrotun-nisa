@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/student1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ffb6c1"
+        android:text="EKA FITRIANA - STE202202653"
+        android:textSize="18sp"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/student2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#dc143c"
+        android:text="FELAN IKA AMANDA - STE202202656"
+        android:textSize="18sp"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/student3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ffc0cb"
+        android:text="FERI SAFAAT RIFAI - STE202202657"
+        android:textSize="18sp"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/student4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ff008d"
+        android:text="OVI RAHMADANI - STE202202665"
+        android:textSize="18sp"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/student5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#cd5c5c"
+        android:text="WANDA SEPTIANINGRUM - STE202202667"
+        android:textSize="18sp"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/student6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#f08080"
+        android:text="ZAHROTUN NISA - STE202202672"
+        android:textSize="18sp"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/student7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#808000"
+        android:text="FITRIA RAHMADHANI - STE202202675"
+        android:textSize="18sp"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/student8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ffa500"
+        android:text="FITRIYANI - STE202202676"
+        android:textSize="18sp"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/student9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ffff00"
+        android:text="GILANG RAHMAN ARIF - STE202202681"
+        android:textSize="18sp"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/student10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ffd700"
+        android:text="HESTI HIDAYAH - STE202202684"
+        android:textSize="18sp"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/student11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#808080"
+        android:padding="8dp"
+        android:text="IKHSAN SARIFUDIN - STE202202686"
+        android:textSize="18sp" />
+</LinearLayout>
